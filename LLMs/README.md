@@ -1,16 +1,10 @@
-# Large Language Models (LLMs)
+# Sub-Lessons on Artificial Intelligence 
 
-This directory contains projects and experiments focused on Large Language Models. Here you'll find:
+This directory contains projects and experiments focused on the fundamentals of LLM's:
 
 ## Contents
-- Implementations and fine-tuning of various LLM architectures
-- Prompt engineering techniques and best practices
-- Model evaluation and benchmarking
-- Integration examples with popular LLM frameworks
-- Research notes and learning materials
-
-## Getting Started
-This section will be updated as projects are added to showcase practical applications and deep understanding of LLM technologies.
-
-## Projects
-*Projects will be added here as development progresses*
+- Foundations of RAG systems and how they work 
+- How to determine the quality of a RAG system's outputs 
+- Fundamentals of Tokens, Context Windows and Chunking 
+- Word embeddings used in LLM's
+- Difference in major LLM's (Claude, OpenAI, ..) 
