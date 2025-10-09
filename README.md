@@ -5,7 +5,7 @@ A structured portfolio of AI learning projects. The goal is to demonstrate my un
 
 This repository is organized into three main areas of AI focus:
 
-### 🤖 [LLMs](./LLMs/)
+### 🤖 [LLMs](./Sub-Lessons/)
 Large Language Models - Implementations, fine-tuning, prompt engineering, and practical applications of various LLM architectures.
 
 ### 🧠 [Agents](./Agents/)
